@@ -27,5 +27,10 @@ Your notes for today should include:
     - Do all of the players have a chance to win?
     - How often do you draw?
 1. After playtesting, pick up a copy of the **Tic Tac Toe Playtest Reports** handout and complete a page for each game that you played. Use your notes for reference.
+ * Write a short paragraph -- two or three sentances at least -- for each section. **Do not** use one word answers, they don't convey enough information to be useful to the reader.
+ * Be specific -- even if the game was perfect, it will help the designer to know what makes it perfect **to you.** If you ran into problems or confusion, try to explain it clearly enough that the designer can understand and use your feed back. After reading your feedback the designer should know:
+  - **What** you like about their game (not just that you liked it), or
+  - **Where** you encountered programs, or
+  - **Why** you didn't like the game.
 
 The [slides][] are available if you want to review them.
