@@ -2,7 +2,6 @@
 #
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabes
-# outcome: A one or two sentance statement describing the end product or stage of the project for this assignment. Displayed above the tabs on tabbed assignments.
 outcome:   
-slides:
-template:
+slides: https://drive.google.com/open?id=1NSaUxBSp9xRf-8SIxjrJUWzplW8gb3gT9DTuW2SRj6s
+template: https://docs.google.com/document/d/17_7xWZiQgfRSNvuBIc_nzQifJLUApSrQVFqf4piQKwE/edit?usp=sharing
